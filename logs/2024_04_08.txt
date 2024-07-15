@@ -33,21 +33,7 @@ xui [ENTER]
 xui [ENTER]
 
 
-Focused Window: @Чьхщ ух№юшэћї - Discord
 
-xui [ENTER]
-xui [ENTER]
-xui [ENTER]
-xui [ENTER]
-xui [ENTER]
-xui [ENTER]
-xui [ENTER]
-xui [ENTER]
-xui [ENTER]
-xui [ENTER]
-xui [ENTER]
-xui [ENTER]
-xui [ENTER]
 
 
 Focused Window: Эютрџ тъырфър - Google Chrome

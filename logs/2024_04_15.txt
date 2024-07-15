@@ -1,0 +1,22 @@
+		START OF LOG FILE
+
+Date: 2024/04/15
+IP Address: 192.168.47.1
+========================================================
+
+
+Focused Window: Поиск
+
+ [LALT] щиы
+
+Focused Window: Новая вкладка - Google Chrome
+
+
+
+Focused Window: Program Manager
+
+est [ENTER]
+
+
+Focused Window: test – Блокнот
+

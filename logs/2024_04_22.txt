@@ -1,0 +1,22 @@
+		START OF LOG FILE
+
+Date: 2024/04/22
+IP Address: 192.168.47.1
+========================================================
+
+
+Focused Window: Ќова€ вкладка - Google Chrome
+
+bose spaci stranu
+
+Focused Window: Program Manager
+
+etst [ENTER]
+
+
+Focused Window: tetst Ц Ѕлокнот
+
+t
+
+Focused Window: *tetst Ц Ѕлокнот
+
